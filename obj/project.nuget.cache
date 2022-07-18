@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+XSf5jEf85LMQ4keDJ4NafcmmS3q/iT3765X6kt/sq43x7dW2rFPgOVFgGj3Okprm6SYrUr+WQqsb5ihr0lsEg==",
+  "success": true,
+  "projectFilePath": "F:\\Devops\\Docker\\docker-app\\docker-app\\docker-app\\docker-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91973\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\91973\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\91973\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\91973\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512"
+  ],
+  "logs": []
+}
